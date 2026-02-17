@@ -45,8 +45,8 @@ Many transport companies in India still use:
 
 This software digitizes LR entry **without changing their existing paper system.**
 
-✔ Physical paper remains same
-✔ Only handwriting is replaced with computer-printed text
+ Physical paper remains same
+ Only handwriting is replaced with computer-printed text
 
 ---
 
