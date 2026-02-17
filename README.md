@@ -19,7 +19,7 @@ The system allows a booking clerk to:
 
 Instead of printing a full page, the software prints **only the required text fields** exactly where blanks exist on the company’s already printed LR forms.
 
-> ⚠ This is NOT a normal invoice generator.
+>  This is NOT a normal invoice generator.
 > It is a **precise print-alignment overlay system.**
 
 ---
@@ -59,7 +59,7 @@ This software digitizes LR entry **without changing their existing paper system.
 5. Clicks **PRINT**
 6. System prints values exactly inside blank boxes
 
-⏱ Result: Perfect printed LR within 5 seconds.
+ Result: Perfect printed LR within 5 seconds.
 
 ---
 
@@ -224,11 +224,11 @@ No payment involved.
 * Fit to page: OFF
 * Center: OFF
 
-⚠ If any setting changes → text shifts from boxes.
+ If any setting changes → text shifts from boxes.
 
 ---
 
-## 🧾 9. Template & QR Files
+##  9. Template & QR Files
 
 Located inside `print-templates/`
 
@@ -284,7 +284,7 @@ Recommended:
 * Microsoft Edge browser
 * Zoom level: 100%
 
-⚠ Do NOT change browser zoom or Windows display scaling.
+ Do NOT change browser zoom or Windows display scaling.
 
 ---
 
