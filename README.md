@@ -1,11 +1,11 @@
- ARS Atlas Roadways – LR Entry & Print System
+ ## ARS Atlas Roadways – LR Entry & Print System
 
 **Client Live Project Documentation**
 Web-based logistics LR (Lorry Receipt) entry, billing classification, and pre-printed form alignment printing system.
 
 ---
 
-## 📌 1. Project Overview
+##  1. Project Overview
 
 This project is a **transport/logistics office automation system** designed for a road transport company to replace handwritten LR (Lorry Receipt) books while still using their existing pre-printed stationery.
 
@@ -24,7 +24,7 @@ Instead of printing a full page, the software prints **only the required text fi
 
 ---
 
-## 🎯 2. Core Problem This Project Solves
+##  2. Core Problem This Project Solves
 
 Many transport companies in India still use:
 
@@ -50,7 +50,7 @@ This software digitizes LR entry **without changing their existing paper system.
 
 ---
 
-## 🔄 3. Real Office Workflow
+##  3. Real Office Workflow
 
 1. Booking clerk opens system dashboard
 2. Selects LR type (**PAID / TO-PAY / TBB / MEMO**)
@@ -63,7 +63,7 @@ This software digitizes LR entry **without changing their existing paper system.
 
 ---
 
-## 🛠 4. Technology Stack
+##  4. Technology Stack
 
 | Component     | Technology                        |
 | ------------- | --------------------------------- |
@@ -78,7 +78,7 @@ This software digitizes LR entry **without changing their existing paper system.
 
 ---
 
-## 🔐 Database (Confidential)
+##  Database (Confidential)
 
 Production system uses **MySQL** for storing:
 
@@ -97,7 +97,7 @@ This repository contains only the **application interface and printing modules**
 
 ---
 
-## 📂 5. Folder Structure
+##  5. Folder Structure
 
 ```
 final atlas done/
@@ -121,7 +121,7 @@ final atlas done/
 
 ---
 
-## 🖥 6. Dashboard (index.html)
+##  6. Dashboard (index.html)
 
 The dashboard acts as the system navigation hub.
 
@@ -143,7 +143,7 @@ Designed for **quick selection during booking rush hours.**
 
 ---
 
-## 📄 7. LR Entry Modules
+##  7. LR Entry Modules
 
 Each module represents a real logistics billing category.
 
@@ -203,7 +203,7 @@ No payment involved.
 
 ---
 
-## 🖨 8. Print Alignment System (Most Critical)
+##  8. Print Alignment System (Most Critical)
 
 ### Paper Size
 
@@ -242,7 +242,7 @@ Not printed in final output.
 
 ---
 
-## ⚙ 10. Printing Mechanism
+##  10. Printing Mechanism
 
 Library Used:
 
@@ -260,7 +260,7 @@ Process:
 
 ---
 
-## ▶ 11. How to Run Locally
+##  11. How to Run Locally
 
 ### Simple Method
 
@@ -274,7 +274,7 @@ Works completely offline.
 
 ---
 
-## 🏢 12. Deployment (Office Setup)
+##  12. Deployment (Office Setup)
 
 Recommended:
 
@@ -288,7 +288,7 @@ Recommended:
 
 ---
 
-## 🛠 13. Customization Guide
+##  13. Customization Guide
 
 ### Change Company Details
 
@@ -315,7 +315,7 @@ Move pixel values until text aligns perfectly.
 
 ---
 
-## ⚠ 14. Known Limitations
+##  14. Known Limitations
 
 * No database details included
 * No LR search
@@ -326,7 +326,7 @@ Move pixel values until text aligns perfectly.
 
 ---
 
-## 🚀 15. Recommended Future Improvements
+##  15. Recommended Future Improvements
 
 * LR number auto generation
 * Daily booking report
@@ -338,7 +338,7 @@ Move pixel values until text aligns perfectly.
 
 ---
 
-## 🔒 16. Security Notes
+##  16. Security Notes
 
 * Runs locally
 * No internet exposure
@@ -347,7 +347,7 @@ Move pixel values until text aligns perfectly.
 
 ---
 
-## 🧠 17. Developer Notes
+##  17. Developer Notes
 
 This project required real-world calibration.
 Each field was manually aligned using physical test prints.
@@ -360,7 +360,7 @@ Common in Indian transport, courier, and warehouse industries.
 
 ---
 
-## 👤 18. Credits
+##  18. Credits
 
 **Client:** ARS Atlas Roadways
 **Project Type:** Live Operational Logistics Software
@@ -368,11 +368,11 @@ Common in Indian transport, courier, and warehouse industries.
 
 ---
 
-## 📜 19. License
+##  19. License
 
 Private Client Project.
 Not intended for public commercial redistribution without permission.
 
 ---
 
-# ✅ End of Documentation
+#  End of Documentation
